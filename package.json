@@ -4,7 +4,7 @@
   "homepage": "https://spring-chatbot.github.io/Spring-Chatbot",
   "private": true,
   "dependencies": {
-    "firebase": "^7.14.2",
+    "firebase": "^10.9.0",
     "jquery": "^3.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
